@@ -10,4 +10,5 @@ If the course has a public facing side, you may include that too. However, pleas
 
 * Phil Conrad - UCSB courses: [[Meta-list]](https://ucsb-cs-course-repos.github.io/courses_list/)
 * Cory Bart - Python Sneks: [[Public]](https://acbart.github.io/python-sneks/), [[GitHub]](https://github.com/acbart/python-sneks)
+* Michael Hilton - CMU courses: [[Software Engineering for Startups]](https://github.com/CMU-17-356/cmu-17-356.github.io)
 * ...
