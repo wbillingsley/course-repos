@@ -12,4 +12,5 @@ If the course has a public facing side, you may include that too. However, pleas
 * Cory Bart - Python Sneks: [[Public]](https://acbart.github.io/python-sneks/), [[GitHub]](https://github.com/acbart/python-sneks)
 * Michael Hilton - CMU courses: [[Software Engineering for Startups]](https://github.com/CMU-17-356/cmu-17-356.github.io)
 * https://cs.brynmawr.edu/gxk2013/
+* https://ucsd-cse131-s18.github.io/
 * ...
