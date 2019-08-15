@@ -19,3 +19,10 @@ If the course has a public facing side, you may include that too. However, pleas
 # Formats
 
 * https://morea-framework.github.io/
+
+
+# Conversion tools
+
+## Slide Decks
+
+* https://gitpitch.com/ (Markdown-based)
