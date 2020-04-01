@@ -13,7 +13,7 @@ If the course has a public facing side, you may include that too. However, pleas
 * Michael Hilton - CMU courses: [[Software Engineering for Startups]](https://github.com/CMU-17-356/cmu-17-356.github.io)
 * https://cs.brynmawr.edu/gxk2013/
 * https://ucsd-cse131-s18.github.io/
-* ...
+* Will Billingsley - Circuits up: [Public](https://theintelligentbook.com/circuitsup/), [GitHub](https://github.com/theIntelligentBook/circuitsup). Will Scala: [Public](https://theintelligentbook.com/willscala/), [GitHub](https://github.com/theIntelligentBook/willscala) 
 
 
 # Formats
@@ -26,3 +26,4 @@ If the course has a public facing side, you may include that too. However, pleas
 ## Slide Decks
 
 * https://gitpitch.com/ (Markdown-based)
+* https://remarkjs.com/ (Markdown-based)
